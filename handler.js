@@ -22,7 +22,7 @@ onload = () => {
     textContainer.style.opacity = 0.8;
     document.body.appendChild(textContainer);
 
-    const texts = ["Waddup nerd", "Pretty cool right?", "Heres sum kind words", "Ur amazing", "Smort", "Beautiful", "Kill it out there alright?", "Love yaa"];
+    const texts = ["Waddup nerd", "Pretty cool right?", "Heres sum kind words", "Ur amazing", "Smort", "Beautiful", "Kill it out there alright?", "Love yaaa"];
     let index = 0;
     let charIndex = 0;
     let isDeleting = false;
